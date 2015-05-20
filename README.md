@@ -2,5 +2,7 @@
 Auto-completions for ARIA attributes and roles in Sublime Text.
 
 ## Installation
-1. Package Control: Add Repository → https://github.com/indrekpaas/ARIA
-2. Package Control: Install Package → ARIA
+Package Control: Install Package → ARIA
+
+## License
+Licensed under the [MIT License](https://github.com/indrekpaas/ARIA/blob/master/LICENSE).
