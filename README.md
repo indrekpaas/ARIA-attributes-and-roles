@@ -10,4 +10,4 @@ Package Control: Install Package → ARIA attributes and roles
 Licensed under the [MIT License](https://github.com/indrekpaas/ARIA/blob/master/LICENSE).
 
 ## To-do
-* Sublime Text 3
+* Sublime Text 3 support
