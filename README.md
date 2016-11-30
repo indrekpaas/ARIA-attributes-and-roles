@@ -1,13 +1,9 @@
-# ARIA attribute and role completions
-Auto-completions for ARIA attributes and roles in Sublime Text 2.
+# Sublime WAI-ARIA
 
-![Demo of ARIA attribute and role completions for Sublime Text 2](http://i.imgur.com/346EAz1.gif)
+[![WAI-ARIA 1.1 W3C Candidate Recommendation 27 October 2016](https://img.shields.io/badge/WAI--ARIA%201.1-W3C%20Candidate%20Recommendation%2027%20October%202016-blue.svg)](https://www.w3.org/TR/2016/CR-wai-aria-1.1-20161027/)
+
+WAI-ARIA Roles, States and Properties auto-completions for Sublime Text.
 
 ## Installation
-Package Control: Install Package → ARIA attributes and roles
 
-## License
-Licensed under the [MIT License](https://github.com/indrekpaas/ARIA/blob/master/LICENSE).
-
-## To-do
-* Sublime Text 3 support
+Package Control: Install Package → Sublime WAI-ARIA

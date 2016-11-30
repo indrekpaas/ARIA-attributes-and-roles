@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aria-selected="${1:false/true/undefined}${1/(f$)|(t$)|(u$)|.*/?1:alse:?2:rue:?3:ndefined/i}"
+]]></content>
+  <tabTrigger>aria-selected</tabTrigger>
+  <scope>text.html.basic meta.tag</scope>
+  <description>Attr</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aria-posinset="${1:integer}"
+]]></content>
+  <tabTrigger>aria-posinset</tabTrigger>
+  <scope>text.html.basic meta.tag</scope>
+  <description>Attr</description>
+</snippet>

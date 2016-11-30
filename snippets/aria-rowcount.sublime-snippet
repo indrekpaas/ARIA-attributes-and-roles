@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aria-rowcount="${1:integer}"
+]]></content>
+  <tabTrigger>aria-rowcount</tabTrigger>
+  <scope>text.html.basic meta.tag</scope>
+  <description>Attr</description>
+</snippet>

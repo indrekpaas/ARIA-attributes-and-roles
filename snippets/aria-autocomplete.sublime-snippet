@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aria-autocomplete="${1:both/inline/list/none}${1/(b$)|(i$)|(l$)|(n$)|.*/?1:oth:?2:nline:?3:ist:?4:one/i}"
+]]></content>
+  <tabTrigger>aria-autocomplete</tabTrigger>
+  <scope>text.html.basic meta.tag</scope>
+  <description>Attr</description>
+</snippet>

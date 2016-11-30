@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aria-details="${1:ID reference}"
+]]></content>
+  <tabTrigger>aria-details</tabTrigger>
+  <scope>text.html.basic meta.tag</scope>
+  <description>Attr</description>
+</snippet>

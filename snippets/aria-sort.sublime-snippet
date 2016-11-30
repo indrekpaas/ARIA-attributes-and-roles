@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aria-sort="${1:ascending/descending/none/other}${1/(a$)|(d$)|(n$)|(o$)|.*/?1:scending:?2:escending:?3:one:?4:ther/i}"
+]]></content>
+  <tabTrigger>aria-sort</tabTrigger>
+  <scope>text.html.basic meta.tag</scope>
+  <description>Attr</description>
+</snippet>

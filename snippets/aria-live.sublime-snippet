@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aria-live="${1:assertive/off/polite}${1/(a$)|(o$)|(p$)|.*/?1:ssertive:?2:ff:?3:olite/i}"
+]]></content>
+  <tabTrigger>aria-live</tabTrigger>
+  <scope>text.html.basic meta.tag</scope>
+  <description>Attr</description>
+</snippet>

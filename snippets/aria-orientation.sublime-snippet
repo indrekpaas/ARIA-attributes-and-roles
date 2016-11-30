@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+aria-orientation="${1:horizontal/undefined/vertical}${1/(h$)|(u$)|(v$)|.*/?1:orizontal:?2:ndefined:?3:ertical/i}"
+]]></content>
+  <tabTrigger>aria-orientation</tabTrigger>
+  <scope>text.html.basic meta.tag</scope>
+  <description>Attr</description>
+</snippet>
