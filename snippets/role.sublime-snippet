@@ -4,5 +4,5 @@ role="${1}${1/(a$)|(alertd$)|(ap$)|(ar$)|(b$)|(bu$)|(c$)|(ch$)|(co$)|(com$)|(com
 ]]></content>
   <tabTrigger>role</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Role</description>
 </snippet>

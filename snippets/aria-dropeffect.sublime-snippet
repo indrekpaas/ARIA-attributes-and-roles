@@ -4,5 +4,5 @@ aria-dropeffect="${1:copy/execute/link/move/none/popup}${1/(c$)|(e$)|(l$)|(m$)|(
 ]]></content>
   <tabTrigger>aria-dropeffect</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

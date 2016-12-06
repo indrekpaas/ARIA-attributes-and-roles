@@ -4,5 +4,5 @@ aria-setsize="${1:integer}"
 ]]></content>
   <tabTrigger>aria-setsize</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

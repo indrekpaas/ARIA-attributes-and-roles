@@ -4,5 +4,5 @@ aria-invalid="${1:false/grammar/spelling/true}${1/(f$)|(g$)|(s$)|(t$)|.*/?1:alse
 ]]></content>
   <tabTrigger>aria-invalid</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>State</description>
 </snippet>

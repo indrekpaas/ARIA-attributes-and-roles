@@ -4,5 +4,5 @@ aria-current="${1:date/false/location/page/step/time/true}${1/(d$)|(f$)|(l$)|(p$
 ]]></content>
   <tabTrigger>aria-current</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>State</description>
 </snippet>

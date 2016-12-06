@@ -4,5 +4,5 @@ aria-rowspan="${1:integer}"
 ]]></content>
   <tabTrigger>aria-rowspan</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

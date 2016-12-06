@@ -4,5 +4,5 @@ aria-multiline="${1:false/true}${1/(f$)|(t$)|.*/?1:alse:?2:rue/i}"
 ]]></content>
   <tabTrigger>aria-multiline</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

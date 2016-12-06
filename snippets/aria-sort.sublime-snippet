@@ -4,5 +4,5 @@ aria-sort="${1:ascending/descending/none/other}${1/(a$)|(d$)|(n$)|(o$)|.*/?1:sce
 ]]></content>
   <tabTrigger>aria-sort</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

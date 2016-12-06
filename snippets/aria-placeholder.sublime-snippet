@@ -4,5 +4,5 @@ aria-placeholder="${1:string}"
 ]]></content>
   <tabTrigger>aria-placeholder</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

@@ -4,5 +4,5 @@ aria-colindex="${1:integer}"
 ]]></content>
   <tabTrigger>aria-colindex</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

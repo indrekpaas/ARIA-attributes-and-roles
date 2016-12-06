@@ -4,5 +4,5 @@ aria-rowindex="${1:integer}"
 ]]></content>
   <tabTrigger>aria-rowindex</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

@@ -4,5 +4,5 @@ aria-expanded="${1:false/true/undefined}${1/(f$)|(t$)|(u$)|.*/?1:alse:?2:rue:?3:
 ]]></content>
   <tabTrigger>aria-expanded</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>State</description>
 </snippet>

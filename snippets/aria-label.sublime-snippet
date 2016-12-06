@@ -4,5 +4,5 @@ aria-label="${1:string}"
 ]]></content>
   <tabTrigger>aria-label</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

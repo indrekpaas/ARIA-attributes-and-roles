@@ -4,5 +4,5 @@ aria-haspopup="${1:dialog/false/grid/listbox/menu/tree/true}${1/(d$)|(f$)|(g$)|(
 ]]></content>
   <tabTrigger>aria-haspopup</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>

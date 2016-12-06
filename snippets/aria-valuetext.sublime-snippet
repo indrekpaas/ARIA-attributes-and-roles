@@ -4,5 +4,5 @@ aria-valuetext="${1:string}"
 ]]></content>
   <tabTrigger>aria-valuetext</tabTrigger>
   <scope>text.html.basic meta.tag</scope>
-  <description>Attr</description>
+  <description>Property</description>
 </snippet>
