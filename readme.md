@@ -7,3 +7,7 @@ WAI-ARIA Roles, States and Properties auto-completion for Sublime Text.
 ## Installation
 
 Package Control: Install Package → WAI-ARIA
+
+## Usage
+
+![Sublime WAI-ARIA](http://i.imgur.com/qeMuJT2.gif)
