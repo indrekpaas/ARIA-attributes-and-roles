@@ -3,6 +3,6 @@
 aria-posinset="${1:integer}"
 ]]></content>
   <tabTrigger>aria-posinset</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>

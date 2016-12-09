@@ -3,6 +3,6 @@
 aria-dropeffect="${1:copy/execute/link/move/none/popup}${1/(c$)|(e$)|(l$)|(m$)|(n$)|(p$)|.*/?1:opy:?2:xecute:?3:ink:?4:ove:?5:one:?6:opup/i}"
 ]]></content>
   <tabTrigger>aria-dropeffect</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>

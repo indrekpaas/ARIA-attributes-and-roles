@@ -3,6 +3,6 @@
 aria-haspopup="${1:dialog/false/grid/listbox/menu/tree/true}${1/(d$)|(f$)|(g$)|(l$)|(m$)|(t$)|(tru$)|.*/?1:ialog:?2:alse:?3:rid:?4:istbox:?5:enu:?6:ree:?7:e/i}"
 ]]></content>
   <tabTrigger>aria-haspopup</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>

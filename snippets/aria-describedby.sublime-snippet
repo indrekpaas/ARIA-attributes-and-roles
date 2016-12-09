@@ -3,6 +3,6 @@
 aria-describedby="${1:ID reference list}"
 ]]></content>
   <tabTrigger>aria-describedby</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>

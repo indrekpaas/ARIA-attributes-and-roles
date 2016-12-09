@@ -3,6 +3,6 @@
 aria-colspan="${1:integer}"
 ]]></content>
   <tabTrigger>aria-colspan</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>

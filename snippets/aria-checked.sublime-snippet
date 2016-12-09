@@ -3,6 +3,6 @@
 aria-checked="${1:false/mixed/true/undefined}${1/(f$)|(m$)|(t$)|(u$)|.*/?1:alse:?2:ixed:?3:rue:?4:ndefined/i}"
 ]]></content>
   <tabTrigger>aria-checked</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>State</description>
 </snippet>

@@ -3,6 +3,6 @@
 role="${1}${1/(a$)|(alertd$)|(ap$)|(ar$)|(b$)|(bu$)|(c$)|(ch$)|(co$)|(com$)|(comm$)|(comp$)|(compo$)|(con$)|(d$)|(di$)|(dir$)|(do$)|(f$)|(fi$)|(fo$)|(g$)|(gridc$)|(gro$)|(h$)|(i$)|(in$)|(l$)|(li$)|(lis$)|(listb$)|(listi$)|(lo$)|(m$)|(mar$)|(mat$)|(me$)|(menub$)|(menui$)|(menuitemc$)|(menuitemr$)|(n$)|(no$)|(not$)|(o$)|(p$)|(pro$)|(r$)|(radiog$)|(ran$)|(re$)|(ro$)|(row$)|(rowg$)|(rowh$)|(s$)|(se$)|(searchb$)|(sec$)|(sectionh$)|(sel$)|(sep$)|(sl$)|(sp$)|(st$)|(str$)|(sw$)|(t$)|(tabl$)|(tabli$)|(tabp$)|(te$)|(tex$)|(ti$)|(to$)|(toolt$)|(tr$)|(treeg$)|(treei$)|(w$)|(win$)|.*/?1:lert:?2:ialog:?3:plication:?4:ticle:?5:anner:?6:tton:?7:ell:?8:eckbox:?9:lumnheader:?10:bobox:?11:and:?12:lementary:?13:site:?14:tentinfo:?15:efinition:?16:alog:?17:ectory:?18:cument:?19:eed:?20:gure:?21:rm:?22:rid:?23:ell:?24:up:?25:eading:?26:mg:?27:put:?28:andmark:?29:nk:?30:t:?31:ox:?32:tem:?33:g:?34:ain:?35:quee:?36:h:?37:nu:?38:ar:?39:tem:?40:heckbox:?41:adio:?42:avigation:?43:ne:?44:e:?45:ption:?46:resentation:?47:gressbar:?48:adio:?49:roup:?50:ge:?51:gion:?52:letype:?53::?54:roup:?55:eader:?56:crollbar:?57:arch:?58:ox:?59:tion:?60:ead:?61:ect:?62:arator:?63:ider:?64:inbutton:?65:atus:?66:ucture:?67:itch:?68:ab:?69:e:?70:st:?71:anel:?72:rm:?73:tbox:?74:mer:?75:olbar:?76:ip:?77:ee:?78:rid:?79:tem:?80:idget:?81:dow/i}"
 ]]></content>
   <tabTrigger>role</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Role</description>
 </snippet>

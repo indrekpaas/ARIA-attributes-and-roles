@@ -3,6 +3,6 @@
 aria-invalid="${1:false/grammar/spelling/true}${1/(f$)|(g$)|(s$)|(t$)|.*/?1:alse:?2:rammar:?3:pelling:?4:rue/i}"
 ]]></content>
   <tabTrigger>aria-invalid</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>State</description>
 </snippet>

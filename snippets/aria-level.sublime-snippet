@@ -3,6 +3,6 @@
 aria-level="${1:integer}"
 ]]></content>
   <tabTrigger>aria-level</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>

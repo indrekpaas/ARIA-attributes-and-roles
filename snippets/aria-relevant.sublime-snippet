@@ -3,6 +3,6 @@
 aria-relevant="${1:additions/additions text/all/removals/text}${1/(a$)|(additions $)|(al$)|(r$)|(t$)|.*/?1:dditions:?2:text:?3:l:?4:emovals:?5:ext/i}"
 ]]></content>
   <tabTrigger>aria-relevant</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>

@@ -3,6 +3,6 @@
 aria-hidden="${1:false/true/undefined}${1/(f$)|(t$)|(u$)|.*/?1:alse:?2:rue:?3:ndefined/i}"
 ]]></content>
   <tabTrigger>aria-hidden</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>State</description>
 </snippet>

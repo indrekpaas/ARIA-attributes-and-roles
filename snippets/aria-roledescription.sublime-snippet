@@ -3,6 +3,6 @@
 aria-roledescription="${1:string}"
 ]]></content>
   <tabTrigger>aria-roledescription</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>

@@ -3,6 +3,6 @@
 aria-keyshortcuts="${1:string}"
 ]]></content>
   <tabTrigger>aria-keyshortcuts</tabTrigger>
-  <scope>text.html.basic meta.tag</scope>
+  <scope>text.html meta.tag</scope>
   <description>Property</description>
 </snippet>
